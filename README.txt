@@ -7,3 +7,5 @@ be placed in subdirectories called modules and themes as follows:
 
   sites/all/modules
   sites/all/themes
+
+  Testing a git change in Eclipse.
