@@ -1,0 +1,15 @@
+name = Twittish
+version = VERSION
+core = 6.x
+engine = phptemplate
+stylesheets[all][] = style.css
+
+regions[rightside] = Rightside Bar
+
+
+; Information added by drupal.org packaging script on 2010-01-07
+version = "6.x-1.2"
+core = "6.x"
+project = "twittish"
+datestamp = "1262873411"
+
